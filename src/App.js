@@ -1,9 +1,11 @@
-import profile from './assets/profile.jpeg';
+import Landing from './Landing';
+import About from './About';
 
 function App() {
   return (
-    <div className="container">
-      <img className="img_profile" alt="profile" src={profile} />
+    <div className="app_container">
+      <Landing />
+      <About />
     </div>
   );
 }

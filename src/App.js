@@ -1,4 +1,4 @@
-import profile from './assets/bg.jpg';
+import profile from './assets/profile.jpeg';
 
 function App() {
   return (
